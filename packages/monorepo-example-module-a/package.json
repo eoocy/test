@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "monorepo-example-module-core": "^0.0.5"
+    "eoocy-monorepo-example-module-core": "^0.0.5"
   },
   "author": "eoocy-a",
   "license": "ISC",
-  "gitHead": "e911bd464c23cba465bbf945cec1a720f509292b"
+  "gitHead": "cf831e664c3a14d24d183a8b70ddd5dc3b641ee1"
 }
