@@ -9,6 +9,7 @@
   "dependencies": {
     "monorepo-example-module-core": "^0.0.1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "eoocy-a",
+  "license": "ISC",
+  "gitHead": "000e57ddfd6380442e67aa57ad7dd27f0f6e2d88"
 }
